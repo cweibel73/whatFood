@@ -1,0 +1,50 @@
+.ques {
+	font-size: 50px;
+	height: 2000px;
+	text-align: center;
+}
+
+body {
+	background-color: blue;
+}
+
+img {
+	height:400px;
+	
+	
+}
+
+.food {
+	display: inline;
+	width: 30%;
+}
+
+.idea {
+	margin-left:25%;	
+	width: 50%;
+	display: inline;
+	
+}
+
+.result {
+	text-align:center;
+	font-size: 4em;
+	font-weight: bold;
+	color: white;
+}
+
+button {
+	font-size: .5em;
+}
+
+a {
+	text-decoration: none;
+}
+
+select {
+	font-size: .5em;
+}
+
+.centered {
+	margin: auto 0;
+}
